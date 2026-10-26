@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "org.mutantaura.hdrtoggle",
+        "Name": "HDR Toggle",
+        "Description": "Toggle HDR per connected display",
+        "Icon": "video-display-brightness",
+        "Authors": [{ "Name": "MutantAura" }],
+        "Category": "System Information",
+        "License": "GPL-2.0+",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
